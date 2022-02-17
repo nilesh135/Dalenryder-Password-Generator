@@ -10,3 +10,10 @@ Thera are various features and an overhaul of the user interfce. Create and gene
 - improvements and other fixes
 # Future Scope
 There are many password generators out there, and people rely on them daily for creating their passwords for various websites. However, many people wonder if these online password creators are secure. Are the passwords truly randomized? Is using a password generator safe?
+Some password generators are simple random sequence generators. This type of software produces a secure password containing upper and lower case letters and numbers. It will also include special characters such as slashes, asterisks, and braces.
+
+Other types of password generators create more recognizable passwords as opposed to a completely random set of characters. Some tools produce actual words that appear in the dictionary. There are also generators with configurable settings to match password varying requirement criteria.
+
+Password generators are beneficial for people who always need to come up with new passwords to protect access to sensitive programs and to manage a lot of different passwords at once.
+
+There are also other tools available such as a password vault, a place where users can manage several passwords in a very secure location.
