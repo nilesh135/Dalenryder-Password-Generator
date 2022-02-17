@@ -17,3 +17,4 @@ Other types of password generators create more recognizable passwords as opposed
 Password generators are beneficial for people who always need to come up with new passwords to protect access to sensitive programs and to manage a lot of different passwords at once.
 
 There are also other tools available such as a password vault, a place where users can manage several passwords in a very secure location.
+This is our tool where we perform http://online-password-generator.dalenryder.com/encrypt.php
