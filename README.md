@@ -1,0 +1,2 @@
+# Dalenryder-Password-Generator
+Dalenryder Password Generator is a collection of tools that help you to stay safe online. Create safe passwords and more. This is the online version of the password generator.Encrypt files to prevent third-parties from accessing them. Protect the files with a password that you should give the receiver of the file to allow him or her to decrypt the encrypted file. Encrypt and decrypt files in three easy steps.
